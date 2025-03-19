@@ -8,6 +8,6 @@ projet vise à simuler une installation FTTH (Fiber To The Home) complète allan
 optique (PTO) jusqu’au point de branchement (PB) tout en s’assurant de la qualité et de la conformité
 des liaisons optiques.
 
-<img src="./images/img1.jpeg" alt="Page connexion" width="300" height="520"/>
+<img src="./intro.png" alt="Page d'introduction" width="300" height="520"/>
 
 [📥 Télécharger le PDF](https://github.com/lolosk/Sae3.4/raw/main/Sa%C3%A9304.pdf)
